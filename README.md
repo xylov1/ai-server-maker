@@ -1,1 +1,2 @@
-use openrouter api here
+use openrouter api @ api.txt
+use bot token @token.txt
